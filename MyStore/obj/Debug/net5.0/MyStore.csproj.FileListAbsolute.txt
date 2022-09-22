@@ -1,0 +1,16 @@
+C:\Users\soura\source\repos\MyStore\MyStore\obj\Debug\net5.0\MyStore.csproj.AssemblyReference.cache
+C:\Users\soura\source\repos\MyStore\MyStore\obj\Debug\net5.0\MyStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soura\source\repos\MyStore\MyStore\obj\Debug\net5.0\MyStore.AssemblyInfoInputs.cache
+C:\Users\soura\source\repos\MyStore\MyStore\obj\Debug\net5.0\MyStore.AssemblyInfo.cs
+C:\Users\soura\source\repos\MyStore\MyStore\obj\Debug\net5.0\MyStore.csproj.CoreCompileInputs.cache
+C:\Users\soura\source\repos\MyStore\MyStore\obj\Debug\net5.0\MyStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\soura\source\repos\MyStore\MyStore\obj\Debug\net5.0\MyStore.RazorAssemblyInfo.cache
+C:\Users\soura\source\repos\MyStore\MyStore\obj\Debug\net5.0\MyStore.RazorAssemblyInfo.cs
+C:\Users\soura\source\repos\MyStore\MyStore\obj\Debug\net5.0\scopedcss\bundle\MyStore.styles.css
+C:\Users\soura\source\repos\MyStore\MyStore\obj\Debug\net5.0\staticwebassets\MyStore.StaticWebAssets.Manifest.cache
+C:\Users\soura\source\repos\MyStore\MyStore\obj\Debug\net5.0\MyStore.TagHelpers.input.cache
+C:\Users\soura\source\repos\MyStore\MyStore\obj\Debug\net5.0\MyStore.TagHelpers.output.cache
+C:\Users\soura\source\repos\MyStore\MyStore\obj\Debug\net5.0\MyStore.RazorCoreGenerate.cache
+C:\Users\soura\source\repos\MyStore\MyStore\obj\Debug\net5.0\MyStore.dll
+C:\Users\soura\source\repos\MyStore\MyStore\obj\Debug\net5.0\ref\MyStore.dll
+C:\Users\soura\source\repos\MyStore\MyStore\obj\Debug\net5.0\MyStore.pdb
